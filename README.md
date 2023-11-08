@@ -11,7 +11,7 @@
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
-A portfolio project involving a detailed analysis of 37,997 high school/college student records to showcase key insights through the aid of effective visualizations aimed at evaluating the factors affecting student's academic performance in high school and colleges in the USA.
+A portfolio project involving a detailed analysis of 37,997 high school/college student records to showcase key insights through the aid of effective visualizations aimed at evaluating the factors affecting student's academic performance in high school and colleges in the World.
 
 ## Dataset
 
@@ -47,14 +47,6 @@ To ascertain a root cause analysis, we attempted to answer the followimg questio
 5. What is the differences in student's performance with respect to where the school is location
 6. Which ethnic group has a higher performance rate in schools and which gender performs better on average?
 7. Does the age of a student have an effect on their academic performance in school?
- 
-
-### Links
-
-#### Solution URL: 
-
-- [Project Report](https://drive.google.com/file/d/1g_9eSkNoOTPBWlbdGwKpvYdr_TC8jHWZ/view?usp=share_link)
-- [Google Sheet Dashboard](https://docs.google.com/spreadsheets/d/e/2PACX-1vS8upZC6jUWUWom88WhFAnp6bxs6vlykOnz8ak5SmOqZ-IjR2ny8aNszT3yjFKj-izQ4EvY2KIJn-kv/pubhtml?gid=36790771&single=true)
 
 
 ### Built with
@@ -97,7 +89,3 @@ To ascertain a root cause analysis, we attempted to answer the followimg questio
 - 51.5% of all students passed  (scored greater than or equal to 50) whilst 48.5% of all students failed (scored less than 50).
 
 ![image1](https://user-images.githubusercontent.com/88894128/209207928-053987ee-5ffd-4d7f-b5ac-517a2037b9f0.png)
-
-
-## Acknowledgments
-Special thanks to Entry level for providing the dataset for this project and to the Data Analyst 3: Advanced SQL class tutor - Nabeel for the lessons and knowledge gained.
