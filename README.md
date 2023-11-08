@@ -1,5 +1,3 @@
-# (ENTRY LEVEL SQL PORTFOLIO PROJECT)
-
 ## Table of contents
 
 - [Overview](#overview)
